@@ -1,1 +1,1 @@
-SPINNERS
+optical_spinner
